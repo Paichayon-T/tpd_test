@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าแรก</title>
+</head>
+<body>
+    <h1>ยินดีต้อนรับสู่หน้าแรก</h1>
+    <p>นี่คือหน้า index ของเว็บไซต์ของคุณ</p>
+</body>
+</html>
